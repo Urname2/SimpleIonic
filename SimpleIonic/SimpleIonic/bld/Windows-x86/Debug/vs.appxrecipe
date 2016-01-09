@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NOLJBRAEKKE01</Machine>
+    <WindowsUser>jbraekke</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>debug|anycpu</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>io.cordova.myappe2785d518e9f4f6ea03055878dd7a400</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>2DC84B8C87CE02E54B57DEED673CF07BC262FAC23A4893D3E75C000F3CEADD58</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>io.cordova.myappe2785d518e9f4f6ea03055878dd7a400_1.0.0.0_neutral__h35559jr9hy9m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>io.cordova.myappe2785d518e9f4f6ea03055878dd7a400_h35559jr9hy9m!io.cordova.myappe2785d518e9f4f6ea03055878dd7a400</RegisteredUserModeAppID>
+    <RegisteredPackageID>io.cordova.myappe2785d518e9f4f6ea03055878dd7a400</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Apache Cordova Team</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\build\windows\debug\anycpu\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-09T10:19:38.832</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-09T10:19:30.592</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-09T10:19:30.576</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-09T10:19:30.580</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-06T18:16:07.306</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <Modified>2016-01-06T18:16:07.308</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-09T10:19:30.583</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <Modified>2016-01-06T18:16:07.314</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-09T10:19:30.585</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-09T10:19:30.589</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\img\ionic.png">
+      <PackagePath>www\img\ionic.png</PackagePath>
+      <Modified>2016-01-09T10:19:30.389</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\cordova-js-src\exec.js">
+      <PackagePath>www\cordova-js-src\exec.js</PackagePath>
+      <Modified>2016-01-09T10:19:30.635</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\cordova-js-src\platform.js">
+      <PackagePath>www\cordova-js-src\platform.js</PackagePath>
+      <Modified>2016-01-09T10:19:30.636</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+      <Modified>2016-01-09T10:19:30.414</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+      <Modified>2016-01-09T10:19:30.637</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\js\app.js">
+      <PackagePath>www\js\app.js</PackagePath>
+      <Modified>2016-01-09T10:19:30.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\js\controllers.js">
+      <PackagePath>www\js\controllers.js</PackagePath>
+      <Modified>2016-01-09T10:19:30.640</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\js\ionic.bundle.min.js">
+      <PackagePath>www\js\ionic.bundle.min.js</PackagePath>
+      <Modified>2016-01-09T10:19:30.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\js\services.js">
+      <PackagePath>www\js\services.js</PackagePath>
+      <Modified>2016-01-09T10:19:30.643</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\js\winstore-jscompat.js">
+      <PackagePath>www\js\winstore-jscompat.js</PackagePath>
+      <Modified>2016-01-09T10:19:30.398</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\plugins\cordova-plugin-camera\src\windows\CameraProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-camera\src\windows\CameraProxy.js</PackagePath>
+      <Modified>2016-01-09T10:19:30.644</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\plugins\cordova-plugin-camera\www\Camera.js">
+      <PackagePath>www\plugins\cordova-plugin-camera\www\Camera.js</PackagePath>
+      <Modified>2016-01-09T10:19:30.644</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\plugins\cordova-plugin-camera\www\CameraConstants.js">
+      <PackagePath>www\plugins\cordova-plugin-camera\www\CameraConstants.js</PackagePath>
+      <Modified>2016-01-09T10:19:30.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\plugins\cordova-plugin-camera\www\CameraPopoverHandle.js">
+      <PackagePath>www\plugins\cordova-plugin-camera\www\CameraPopoverHandle.js</PackagePath>
+      <Modified>2016-01-09T10:19:30.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\plugins\cordova-plugin-camera\www\CameraPopoverOptions.js">
+      <PackagePath>www\plugins\cordova-plugin-camera\www\CameraPopoverOptions.js</PackagePath>
+      <Modified>2016-01-09T10:19:30.646</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\plugins\cordova-plugin-device-motion\src\windows\AccelerometerProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-device-motion\src\windows\AccelerometerProxy.js</PackagePath>
+      <Modified>2016-01-09T10:19:30.646</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\plugins\cordova-plugin-device-motion\www\Acceleration.js">
+      <PackagePath>www\plugins\cordova-plugin-device-motion\www\Acceleration.js</PackagePath>
+      <Modified>2016-01-09T10:19:30.647</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\plugins\cordova-plugin-device-motion\www\accelerometer.js">
+      <PackagePath>www\plugins\cordova-plugin-device-motion\www\accelerometer.js</PackagePath>
+      <Modified>2016-01-09T10:19:30.647</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\plugins\cordova-plugin-vibration\src\windows\VibrationProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-vibration\src\windows\VibrationProxy.js</PackagePath>
+      <Modified>2016-01-09T10:19:30.647</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\plugins\cordova-plugin-vibration\www\vibration.js">
+      <PackagePath>www\plugins\cordova-plugin-vibration\www\vibration.js</PackagePath>
+      <Modified>2016-01-09T10:19:30.648</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\scripts\platformOverrides.js">
+      <PackagePath>www\scripts\platformOverrides.js</PackagePath>
+      <Modified>2016-01-09T10:19:30.407</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\scripts\winstore-jscompat.js">
+      <PackagePath>www\scripts\winstore-jscompat.js</PackagePath>
+      <Modified>2016-01-09T10:19:30.409</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\WinJS\js\base.js">
+      <PackagePath>www\WinJS\js\base.js</PackagePath>
+      <Modified>2016-01-09T10:19:30.439</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\css\index.css">
+      <PackagePath>www\css\index.css</PackagePath>
+      <Modified>2016-01-09T10:19:30.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\css\ionic.css">
+      <PackagePath>www\css\ionic.css</PackagePath>
+      <Modified>2016-01-09T10:19:30.638</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\css\style.css">
+      <PackagePath>www\css\style.css</PackagePath>
+      <Modified>2016-01-09T10:19:30.638</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\fonts\ionicons.eot">
+      <PackagePath>www\fonts\ionicons.eot</PackagePath>
+      <Modified>2016-01-09T10:19:30.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\fonts\ionicons.svg">
+      <PackagePath>www\fonts\ionicons.svg</PackagePath>
+      <Modified>2016-01-09T10:19:30.383</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\fonts\ionicons.ttf">
+      <PackagePath>www\fonts\ionicons.ttf</PackagePath>
+      <Modified>2016-01-09T10:19:30.385</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\fonts\ionicons.woff">
+      <PackagePath>www\fonts\ionicons.woff</PackagePath>
+      <Modified>2016-01-09T10:19:30.387</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+      <Modified>2016-01-09T10:19:30.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\templates\chat-detail.html">
+      <PackagePath>www\templates\chat-detail.html</PackagePath>
+      <Modified>2016-01-09T10:19:30.649</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\templates\tab-account.html">
+      <PackagePath>www\templates\tab-account.html</PackagePath>
+      <Modified>2016-01-09T10:19:30.649</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\templates\tab-chats.html">
+      <PackagePath>www\templates\tab-chats.html</PackagePath>
+      <Modified>2016-01-09T10:19:30.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\templates\tab-dash.html">
+      <PackagePath>www\templates\tab-dash.html</PackagePath>
+      <Modified>2016-01-09T10:19:30.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\www\templates\tabs.html">
+      <PackagePath>www\templates\tabs.html</PackagePath>
+      <Modified>2016-01-09T10:19:30.651</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+      <Modified>2016-01-09T10:19:53.802</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\build\windows\debug\anycpu\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-01-09T10:19:32.089</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

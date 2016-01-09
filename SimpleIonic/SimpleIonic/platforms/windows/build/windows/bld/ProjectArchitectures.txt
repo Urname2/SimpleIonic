@@ -1,0 +1,1 @@
+C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\CordovaApp.Windows.jsproj;neutral

@@ -1,0 +1,21 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "SimpleIonic"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "SimpleIonic"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "SimpleIonic"
+        }
+    },
+    "dependent_plugins": {}
+}

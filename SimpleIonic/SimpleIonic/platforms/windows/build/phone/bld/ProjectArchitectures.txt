@@ -1,0 +1,2 @@
+C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\platforms\windows\CordovaApp.Phone.jsproj;neutral
+C:\Users\jbraekke\Documents\Visual Studio 2015\Projects\SimpleIonic\SimpleIonic\plugins\cordova-plugin-vibration\src\windows\Vibration\Vibration.csproj;neutral
